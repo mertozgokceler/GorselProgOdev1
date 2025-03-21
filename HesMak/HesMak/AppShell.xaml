@@ -1,0 +1,25 @@
+<Shell
+    x:Class="HesMak.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:HesMak.Views">
+
+    
+    <FlyoutItem Title="Hesap Makinesi" FlyoutDisplayOptions="AsMultipleItems">
+
+       
+        <ShellContent 
+            Title="Standart" 
+            Icon="calculator.png"
+            Route="standard"
+            ContentTemplate="{DataTemplate local:StandardCalculatorPage}" />
+
+        
+        <ShellContent 
+            Title="Bilimsel" 
+            Icon="scientific.png"
+            Route="scientific"
+            ContentTemplate="{DataTemplate local:ScientificCalculatorPage}" />
+
+    </FlyoutItem>
+</Shell>

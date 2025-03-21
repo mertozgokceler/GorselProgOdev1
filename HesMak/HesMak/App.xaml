@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Application
+    x:Class="HesMak.App"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <Application.Resources>
+
+       
+        <Color x:Key="CalcBackgroundColor">#202020</Color>
+        <Color x:Key="CalcButtonColor">#2D2D2D</Color>
+        <Color x:Key="CalcButtonTextColor">#FFFFFF</Color>
+        <Color x:Key="CalcOperatorColor">#2D2D2D</Color>
+        <Color x:Key="CalcEqualsColor">#0078D7</Color>
+        <Color x:Key="CalcEqualsTextColor">#FFFFFF</Color>
+
+        
+        <Style TargetType="Button" x:Key="CalcButtonStyle">
+            <Setter Property="BackgroundColor" Value="{StaticResource CalcButtonColor}" />
+            <Setter Property="TextColor" Value="{StaticResource CalcButtonTextColor}" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="CornerRadius" Value="0" />
+            <Setter Property="BorderWidth" Value="0" />
+        </Style>
+
+       
+        <Style TargetType="Button" x:Key="CalcOperatorStyle" BasedOn="{StaticResource CalcButtonStyle}">
+            <Setter Property="BackgroundColor" Value="{StaticResource CalcOperatorColor}" />
+        </Style>
+
+       
+        <Style TargetType="Button" x:Key="CalcEqualsStyle" BasedOn="{StaticResource CalcButtonStyle}">
+            <Setter Property="BackgroundColor" Value="{StaticResource CalcEqualsColor}" />
+            <Setter Property="TextColor" Value="{StaticResource CalcEqualsTextColor}" />
+        </Style>
+
+        
+        <Style TargetType="Label" x:Key="CalcResultLabelStyle">
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="FontSize" Value="36" />
+            <Setter Property="HorizontalTextAlignment" Value="End" />
+            <Setter Property="VerticalTextAlignment" Value="Center" />
+        </Style>
+
+    </Application.Resources>
+</Application>

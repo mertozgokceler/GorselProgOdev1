@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merto\\source\\repos\\HesMak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\views\\standardcalculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\views\\standardcalculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\views\\standardcalculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\views\\standardcalculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\views\\scientificcalculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\views\\scientificcalculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|c:\\users\\merto\\source\\repos\\hesmak\\hesmak\\views\\scientificcalculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A249340A-BC2F-4A92-B686-E595031E0CEE}|HesMak\\HesMak.csproj|solutionrelative:hesmak\\views\\scientificcalculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StandardCalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\StandardCalculatorPage.xaml",
+              "RelativeDocumentMoniker": "HesMak\\Views\\StandardCalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\StandardCalculatorPage.xaml",
+              "RelativeToolTip": "HesMak\\Views\\StandardCalculatorPage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T05:36:01.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "HesMak\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\AppShell.xaml.cs",
+              "RelativeToolTip": "HesMak\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:31:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HesMak\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\MainPage.xaml",
+              "RelativeToolTip": "HesMak\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T19:57:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HesMak\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\MainPage.xaml.cs",
+              "RelativeToolTip": "HesMak\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:57:12.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "HesMak\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\MauiProgram.cs",
+              "RelativeToolTip": "HesMak\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:31:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Platforms\\Windows\\App.xaml",
+              "RelativeDocumentMoniker": "HesMak\\Platforms\\Windows\\App.xaml",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Platforms\\Windows\\App.xaml",
+              "RelativeToolTip": "HesMak\\Platforms\\Windows\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T21:03:38.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HesMak\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "HesMak\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:32:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\AppShell.xaml",
+              "RelativeDocumentMoniker": "HesMak\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\AppShell.xaml",
+              "RelativeToolTip": "HesMak\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T05:31:08.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HesMak\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\App.xaml.cs",
+              "RelativeToolTip": "HesMak\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:27:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\App.xaml",
+              "RelativeDocumentMoniker": "HesMak\\App.xaml",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\App.xaml",
+              "RelativeToolTip": "HesMak\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T05:26:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StandardCalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\StandardCalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "HesMak\\Views\\StandardCalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\StandardCalculatorPage.xaml.cs",
+              "RelativeToolTip": "HesMak\\Views\\StandardCalculatorPage.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:37:05.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScientificCalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\ScientificCalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "HesMak\\Views\\ScientificCalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\ScientificCalculatorPage.xaml.cs",
+              "RelativeToolTip": "HesMak\\Views\\ScientificCalculatorPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:37:46.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScientificCalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\ScientificCalculatorPage.xaml",
+              "RelativeDocumentMoniker": "HesMak\\Views\\ScientificCalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\merto\\source\\repos\\HesMak\\HesMak\\Views\\ScientificCalculatorPage.xaml",
+              "RelativeToolTip": "HesMak\\Views\\ScientificCalculatorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T05:36:30.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
